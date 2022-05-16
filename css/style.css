@@ -1,0 +1,136 @@
+body {
+	background-color: light grey;
+}
+h1 {
+	text-align: center;
+}
+.maintable {
+	 width: 800px;
+	 border-collapse: collapse;
+	 margin-left: auto;
+	 margin-right: auto;
+	 border: 0px solid white;
+	 background-color: white;
+}
+
+.button1:hover {
+		background-color: black;
+}
+
+.div1 {
+	horizontal-align: top;
+	padding: 3px;
+	border: 7px #black;
+	background-color: #76b5c5;
+	text-align: center;
+}
+
+.button1 {
+	font-family: Arial;
+	background-color: #76b5c5;
+	border: none;
+	color: white;
+	padding: 5px 20px;
+	text-align:center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 4px;
+	margin-bottom: 0px;
+	
+}
+
+.button2 {
+	font-family: Arial;
+	background-color: #76b5c5;
+	border: none;
+	color: white;
+	padding: 5px 20px;
+	text-align:center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.button2:hover {
+		background-color: #ffb347;
+}
+
+.container {
+	max-width: 800px;
+}
+
+.logo {
+	text-align: center;
+}
+
+.card {
+	border-radius: 6px;
+	border-color: #76b5c5;
+	transition: 0.2s;
+	box-shadow: 3px 3px;
+}
+.card:hover {
+	background-color: #d0eef7;
+}
+.heading {
+	text-align: center;
+}
+
+.footer {
+	text-align: center;
+}
+.div2 {
+	text-align: center;
+}
+
+.p1 {
+	font-size: 60px;
+}
+
+#footer {
+	background-color: #76b5c5;
+}
+
+#navbar {
+	background-color: #76b5c5
+}
+
+.footer {
+	font-size: 20px;
+}
+
+#header {
+	background-color: #b2d8d8;
+}
+
+.body1 {
+	background-color: #e07b39;
+}
+
+.body2 {
+	font-family: Arial;
+	background-color: #cf3b1f;
+	color: white;
+}
+
+/* Contact Us page*/
+
+form {
+	
+	
+}
+
+card2 {
+	border-radius: 6px;
+	border-color: #76b5c5;
+	transition: 0.2s;
+}
+.card2:hover {
+	background-color: #d0eef7;
+}
+
+/* basket page*/
